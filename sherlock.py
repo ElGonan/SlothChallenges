@@ -1,3 +1,7 @@
+# ElGonan
+# july 15, 2025
+
+
 def isValid(input):
     dic = {}
 
